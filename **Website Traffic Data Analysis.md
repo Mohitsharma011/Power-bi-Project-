@@ -56,13 +56,15 @@ Automate the data pipeline for real-time updates using Power BI's data gateway.
 Incorporate advanced analytics, such as user cohort analysis or predictive modeling.
 Include sentiment analysis from user feedback to understand user satisfaction.
 
-Resource 
-Excel =
+**Resource**
 
-Mysql =
+**Excel CSV File** =
+https://github.com/Mohitsharma011/Power-bi-Project-/blob/main/website_Data.csv
+
+**Mysql** =*
 https://github.com/Mohitsharma011/Power-bi-Project-/blob/main/Website_data.sql
 
-Dashboard=
+**Dashboard** =
 https://github.com/Mohitsharma011/Power-bi-Project-/blob/main/Website_Traffic.pbix
 
 
