@@ -59,6 +59,9 @@ Include sentiment analysis from user feedback to understand user satisfaction.
 Resource 
 Excel =
 
+Mysql =
+https://github.com/Mohitsharma011/Power-bi-Project-/blob/main/Website_data.sql
+
 Dashboard=
 https://github.com/Mohitsharma011/Power-bi-Project-/blob/main/Website_Traffic.pbix
 
