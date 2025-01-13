@@ -55,3 +55,12 @@ Blog pages receive the most engagement, with longer session durations.
 Automate the data pipeline for real-time updates using Power BI's data gateway.
 Incorporate advanced analytics, such as user cohort analysis or predictive modeling.
 Include sentiment analysis from user feedback to understand user satisfaction.
+
+Resource 
+Excel =
+
+Dashboard=
+https://github.com/Mohitsharma011/Power-bi-Project-/blob/main/Website_Traffic.pbix
+
+
+
